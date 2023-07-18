@@ -1,0 +1,11 @@
+
+
+.titre {
+    text-align: center;
+    color: brown !important;
+    font-size: 32px !important;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    animation-duration: 4s;
+    /* animation-delay: 2s; */
+
+}
